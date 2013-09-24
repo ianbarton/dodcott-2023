@@ -1,0 +1,4 @@
+* Dodcott-cum-Wilkesley Web Site.
+This is the source for the Parish of Dodcott-cum-Wilkesley's web
+site. The site is created using [[https://github.com/getpelican/pelican][Pelican]]. This repository should
+contain all the components necessary to create the site.
