@@ -5,7 +5,9 @@
     {% if articles %}
         {% for article in (articles_page.object_list if articles_page else articles) %}
             <article>
-                <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+                <h2><a href="{{ SITEURL }}/{{ article.url }}">{{
+                article.title }}</a></h2>
+                <div class="well small">{% include "article_info.html" %}</div>
                 <div class="summary">{{ article.summary }}
                     {# Uncomment if you want to show comment counts #}
                     {#{% include 'includes/comment_count.html' %}#}
