@@ -5,6 +5,14 @@
 <aside>
     <section>
         <ul class="list-group list-group-flush">
+             {% if DISPLAY_PAGES_ON_SIDEBAR %}
+                   <li class="list-group-item"><h4><i class="icon-home icon-large"></i>Pages</h4></li>
+                   {% for p in PAGES %}
+                         <li class="list-group-item" {% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">
+                             {{ p.title }}
+                          </a></li>
+                      {% endfor %}
+            {% endif %}
             {% if SOCIAL %}
                 <li class="list-group-item"><h4><i class="icon-home icon-large"></i>Social</h4></li>
                 {% for name, link in SOCIAL %}
