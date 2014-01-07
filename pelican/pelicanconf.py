@@ -4,14 +4,19 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Ian Barton'
 SITENAME = u'Dodcott-cum-Wilkesley'
-SITEURL = ''
-
-TIMEZONE = 'Europe/London'
-
-DEFAULT_LANG = u'en'
+SITEURL = 'http://localhost'
 
 THEME = "/home/ian/Documents/emacs/web_sites/dodcott.org.pelican/pelican-themes/pelican-bootstrap3"
+BOOTSTRAP_THEME = 'readable'
+
+TIMEZONE = 'Europe/London'
+MARKUP = (('rst', 'md', 'yml'))
+DEFAULT_LANG = 'en'
+
+
 DISPLAY_PAGES_ON_MENU = True
+
+
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

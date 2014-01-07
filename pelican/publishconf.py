@@ -10,7 +10,11 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'http://dodcott.org'
+
+# SITEURL = 'http://dodcott.org'
+SITEURL = 'http://localhost'
+
+# Uncomment following line for absolute URLs in production:
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
