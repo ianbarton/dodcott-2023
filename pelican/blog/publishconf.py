@@ -12,7 +12,7 @@ from pelicanconf import *
 
 
 # SITEURL = 'http://dodcott.org'
-SITEURL = 'http://localhost'
+SITEURL = 'http://localhost/dodcott'
 
 # Uncomment following line for absolute URLs in production:
 RELATIVE_URLS = False
