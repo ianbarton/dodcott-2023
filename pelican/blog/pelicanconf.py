@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Ian Barton'
 SITENAME = u'Dodcott-cum-Wilkesley'
-SITEURL = 'http://localhost'
+SITEURL = 'http://localhost/dodcott'
 
 THEME = "/home/ian/Documents/emacs/web_sites/dodcott.org.pelican/pelican-themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = 'readable'
@@ -14,7 +14,9 @@ MARKUP = (('rst', 'md', 'yml'))
 DEFAULT_LANG = 'en'
 
 
-DISPLAY_PAGES_ON_MENU = True
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_SIDEBAR = True
 
 
 
@@ -30,10 +32,13 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'http://twitter.com/dodcottfibre'),
+          )
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+PLUGIN_PATH = "/home/ian/Dropbox/src/pelican-plugins"
+PLUGINS = ['yaml_importer', 'summary']
