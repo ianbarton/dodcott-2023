@@ -32,8 +32,8 @@ with a wide variety of [[https://github.com/getpelican/pelican-themes][themes]] 
 
 With the exception of pdf files, which are hosted on Google Documents
 all the content and history is available on Github, ensuring
-transparency. Anyone wanting to obtain a copy of the site and all the
-history of the changes made to it can do so by cloning this repository.
+transparency. Anyone wanting to obtain a copy of the site which includes all the
+history of the changes made to the site can do so by cloning this repository.
 
 * Running the Site on Your Own Computer.
 This is a very brief guide to getting the site installed and running
