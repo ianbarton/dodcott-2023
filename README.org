@@ -30,7 +30,7 @@ Content can be added in a number of simple text formats including
 [[http://daringfireball.net/projects/markdown/][Markdown]] making it easy for users to contribute. The site is themeable
 with a wide variety of [[https://github.com/getpelican/pelican-themes][themes]] available.
 
-With the exception of pdf files, which are hosted on Gogle Documents
+With the exception of pdf files, which are hosted on Google Documents
 all the content and history is available on Github, ensuring
 transparency. Anyone wanting to obtain a copy of the site and all the
 history of the changes made to it can do so by cloning this repository.
