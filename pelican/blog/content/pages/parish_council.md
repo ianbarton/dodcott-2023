@@ -1,8 +1,6 @@
 Title: Parish Council
 Date: 2013-09-19
 
-Parish Council.
-###############
 Your Parish Councillors are:
 
 <table>
