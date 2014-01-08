@@ -45,3 +45,5 @@ PLUGINS = ['yaml_importer', 'summary']
 
 ARTICLE_URL = "posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/"
 ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html"
+
+GOOGLE_ANALYTICS = "UA-46964007-1"
