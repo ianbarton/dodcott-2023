@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Ian Barton'
 SITENAME = u'Dodcott-cum-Wilkesley'
-SITEURL = 'http://localhost/dodcott'
+SITEURL = 'http://dodcott.org'
 
-THEME = "/home/ian/Documents/emacs/web_sites/dodcott.org.pelican/pelican-themes/pelican-bootstrap3"
+THEME = "../../pelican-themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = 'readable'
 
 TIMEZONE = 'Europe/London'
