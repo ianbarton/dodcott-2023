@@ -39,3 +39,4 @@ Your Parish Clerk is: Nick Powell 01270 588896
 Meetings are held either in the Lightwood Green Chapel, or the Burleydam Community Room.
 
 ## Minutes and Agendas.
+The Minutes and Agendas ar now hosted on Google Documents in pdf format. To view them click [here](https://drive.google.com/folderview?id=0B2XEOILWjIK3RkE1aDdWSXJBTk0&usp=sharing) .
