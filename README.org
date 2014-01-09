@@ -61,6 +61,8 @@ contact me.
 - [[http://git-scm.com/][Git]]. A version control system.
 - A decent text editor, NOT a word processor. If you are using Windows
   Notepad++ is supposed to be good.
+- An ssh client. If you are using Mac or Linux you already have one
+  built in. Windows users can download [[http://www.chiark.greenend.org.uk/~sgtatham/putty/][Putty]].
 - A [[https://github.com][Github]] account. This isn't essential, but will make your life
   easier. It's free to join and use.
 
