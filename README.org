@@ -61,6 +61,8 @@ contact me.
 - [[http://git-scm.com/][Git]]. A version control system.
 - A decent text editor, NOT a word processor. If you are using Windows
   Notepad++ is supposed to be good.
+- A [[https://github.com][Github]] account. This isn't essential, but will make your life
+  easier. It's free to join and use.
 
 ** Using Python in a VirtualEnv.
 I would strongly recommend that you set up Python in a [[https://wiki.archlinux.org/index.php/Virtualenv][VirtualEnv]]
