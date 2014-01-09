@@ -76,6 +76,16 @@ pip. See the [[http://docs.getpelican.com/en/3.3.0/getting_started.html][Pelican
 content using [[http://daringfireball.net/projects/markdown/][Markdown]] you will need to install the Python Markdown
 package using either easy_install or pip.
 
+** Getting the Source Code.
+You need to download the source code and all the content for the site
+to your local computer. You need to use git to make a clone of the
+repository on the Github web site.
+
+: git clone git@github.com:geekinthesticks/dodcott-cum-wilkesley.git
+
+This will create a copy of everything on Github to a directory called dodcott-cum-wilkesley.
+
+
 ** Running the Site.
 Once you have used git  to clone the site to your local computer,  change
 to the pelican subdirectory:
