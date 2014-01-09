@@ -54,6 +54,14 @@ who wants to download the site and run it on their own computer. If
 you want to try this yourself and need more help, please free to
 contact me.
 
+** Basic List of Things You Need.
+   Note all the software you need is Open Source and free.
+
+- [[http://python.org][Python]] . You need the latest 2.x version, not a version 3.x.
+- [[http://git-scm.com/][Git]]. A version control system.
+- A decent text editor, NOT a word processor. If you are using Windows
+  Notepad++ is supposed to be good.
+
 ** Using Python in a VirtualEnv.
 I would strongly recommend that you set up Python in a [[https://wiki.archlinux.org/index.php/Virtualenv][VirtualEnv]]
 . This creates an isolated environment in which you can install
