@@ -1,4 +1,4 @@
-Title: Parish Council Meeting.
+Title: Parish Council Meeting January 7th 2014.
 Date: 2014-01-07
 Author: Ian Barton.
 Tags: [parishcouncil]
