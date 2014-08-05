@@ -1,0 +1,10 @@
+Title: World War One Remembrance Ceremony.
+Date: 2014-08-04
+Author: Ian Barton.
+Tags: [parishcouncil]
+
+Today was the 100th anniversary of the outbreak of hostilities that
+began the Great War. A short ceremony was held at the War Memorial at
+St Mary's and St Michael's Church at Burleydam. It was a warm sunny
+morning and about 30 people attended. During the ceremony the names of
+the soldiers from the Parish who lost their lives was read out.
