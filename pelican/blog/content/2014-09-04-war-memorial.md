@@ -4,10 +4,11 @@ Author: Ian Barton.
 Tags: [WW1]
 
 Some of you may know that there is a War Memorial in the church of St
-??? in Burleydam. This commemorates the members of the parish who were
-killed in the conflict. The memorial was erected in 1920 and is made
-from sandstone. In recent years the engravings of the names of the
-fallen have started to become indistinct.
+St Mary's and St Michael's in Burleydam. This commemorates the members
+of the parish who were killed in the conflict. The memorial was
+erected in 1920 and is made from sandstone. In recent years the
+engravings of the names of the fallen have started to become
+indistinct.
 
 We have been lucky to obtain donations from Burleydam Village Hall
 Trust, Combermere Abbey and a Communities Grant from Cheshire
