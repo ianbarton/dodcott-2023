@@ -1,4 +1,4 @@
-+#!/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
@@ -33,7 +33,7 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/dodcottfibre'),
-          )
+          ('github', 'https://github.com/dodcott/dodcott-cum-wilkesley'),)
 
 DEFAULT_PAGINATION = 10
 
