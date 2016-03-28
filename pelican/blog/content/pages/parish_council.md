@@ -37,4 +37,12 @@ Your Parish Clerk is: Nick Powell 01270 588896
 Meetings are held either in the Lightwood Green Chapel, or the Burleydam Community Room.
 
 ## Minutes and Agendas.
-The Minutes and Agendas ar now hosted on Google Documents in pdf format. To view them click [here](https://drive.google.com/folderview?id=0B2XEOILWjIK3RkE1aDdWSXJBTk0&usp=sharing) .
+The Minutes and Agendas ar now hosted on Google Documents in pdf
+format. To view them click
+[here](https://drive.google.com/folderview?id=0B2XEOILWjIK3RkE1aDdWSXJBTk0&usp=sharing)
+.
+
+## Upcoming Meetings.
+The next meeting is on Monday 9th 2016 May at Burleydam Church. This
+is the Annual Parish Meeting, which starts at 7:00pm. This is followed
+by the AGM at 7:15pm.
