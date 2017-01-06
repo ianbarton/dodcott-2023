@@ -5,5 +5,5 @@ Tags: [parishcouncil]
 
 There will be a Parish Council Meeting  in Lightwood Green Chapel on
 Monday 14th September at 7:00pm. You can view the Agenda for the meeting
-[here](https://drive.google.com/drive/#folders/0B2XEOILWjIK3RkE1aDdWSXJBTk0/0B2XEOILWjIK3SWRGZjZZbTUzRFk)
+[here](https://drive.google.com/drive/folders/0B2XEOILWjIK3U0ltblU5VzRjNDg)
 All are welcome to attend.
