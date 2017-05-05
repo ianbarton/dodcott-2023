@@ -3,8 +3,8 @@ Date: 2017-01-09
 Author: Ian Barton.
 Tags: [parishcouncil]
 
-There is a Parish Council meeting on Monday 08th January at Burleydam
+There is a Parish Council meeting on Monday 9th January at Burleydam
 Community Room. The meeting starts at 7:00pm and all are welcome to attend.
 
 You can view the Agenda for the meeting
-[here](https://drive.google.com/drive/folders/0B2XEOILWjIK3U0ltblU5VzRjNDg)
+[here](https://drive.google.com/drive/folders/https://drive.google.com/drive/folders/0B2XEOILWjIK3ek1LbXdJMWpzZnM)
