@@ -1,0 +1,9 @@
+Title: Transparency.
+Date: 2017-05-21
+Author: Ian Barton.
+Tags: [parishcouncil, transparency]
+
+In order to comply with Cheshire East's Transparency Code, the Parish
+Council is publishing its budget, accounts  and a record of all
+cheques written. You can find out more by clicking on the
+Transparency link in the right hand side bar.
