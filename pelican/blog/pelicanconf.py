@@ -41,7 +41,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 PLUGIN_PATHS = ["/home/ian/Copy/src/pelican-plugins"]
-PLUGINS = ['yaml_importer', 'summary']
+#PLUGINS = ['yaml_importer', 'summary']
 
 ARTICLE_URL = "posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/"
 ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html"
