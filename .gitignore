@@ -12,9 +12,9 @@
 *.aux
 *.log
 .directory
-/nikola/dodcott/*.py[cod]
-/nikola/dodcott/__pycache__
-/nikola/dodcott/cache
-/nikola/dodcott/output
-/nikola/dodcott/.doit.db
-/nikola/dodcott/_env/
+nikola/dodcott.org/output/
+/nikola/dodcott.org/*.py[cod]
+/nikola/dodcott.org/__pycache__
+/nikola/dodcott.org/cache
+/nikola/dodcott.org/.doit.db
+/nikola/dodcott.org/_env/
