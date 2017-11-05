@@ -16,6 +16,8 @@ from pelicanconf import *
 #SITEURL = 'http://localhost:8000'
 SITEURL = 'http://dodcott.org'
 
+#SITEURL = 'http://geekinthesticks.github.io/dodcott-cum-wilkesley'
+
 # Uncomment following line for absolute URLs in production:
 RELATIVE_URLS = False
 
