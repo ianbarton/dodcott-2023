@@ -9,12 +9,6 @@
 .. type: text
 -->
 
-
-Title: Parish Council Meeting June 10th 2017.
-Date: 2017-07-10
-Author: Ian Barton.
-Tags: [parishcouncil]
-
 There is a Parish Council meeting on Monday 10th July at Burleydam
 Community Room. The meeting starts at 7:00pm and all are welcome to attend.
 
