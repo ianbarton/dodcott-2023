@@ -1,5 +1,5 @@
 #+BEGIN_COMMENT
-.. title: 2017 11 08 Moved To Github
+.. title: Moved To Github
 .. slug: 2017-11-08-moved-to-github
 .. date: 2017-11-08 09:26:02 UTC
 .. tags: github
