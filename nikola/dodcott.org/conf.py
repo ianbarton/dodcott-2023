@@ -18,13 +18,13 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Ian Barton"  # (translatable)
-BLOG_TITLE = "Dodcott-cum-Wilkesley Parish Council"  # (translatable)
+BLOG_TITLE = "Dodcott-cum-Wilkesley"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "http://dodcott.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://snippets.ianbarton.net/"
+# BASE_URL = "http://dodcott.org/"
 BLOG_EMAIL = "ian@manor-farm.org"
 BLOG_DESCRIPTION = "Dodcott-cum-Wilkesley Parish Council."  # (translatable)
 
@@ -137,12 +137,30 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
         ("/pages/about/index.html", "About"),
+        ("/pages/parish_council/index.html", "Parish Council"),
         ("/pages/transparency/index.html", "Transparency"),
-        ("/pages/contact/index.html", "Contact"),
+
         ("/pages/contributing/index.html", "Contributing"),
+        ((("/pages/contact/index.html", "Contact"),
+          ('/bar', 'BAR')), 'Contact details'),
+
         ("/rss.xml", "RSS feed"),
+
+
+
     ),
 }
+
+# NAVIGATION_LINKS = {
+#     DEFAULT_LANG: (
+#         ('/archive.html', 'Archives'),
+#         ('/categories/index.html', 'Tags'),
+#         ('/rss.xml', 'RSS'),
+#         ((('/foo', 'FOO'),
+#           ('/bar', 'BAR')), 'BAZ'),
+#     ),
+
+# }
 
 # Name of the theme to use.
 THEME = "bootstrap3"
