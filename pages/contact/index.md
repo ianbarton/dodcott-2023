@@ -13,4 +13,4 @@ For further information about the web site or to provide feedback, please contac
 
 The contents and source code for this site are also available from [GitHub](https://github.com/dodcott/dodcott-cum-wilkesley)
 
-You can see a list of Parish Councillors and contact details [here](http://dodcott.org/pages/parish_council/index.html).
+You can see a list of Parish Councillors and contact details [here](https://dodcott.org/parishcouncil).
