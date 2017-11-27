@@ -8,35 +8,19 @@
 
 Your Parish Councillors are:
 
-<table>
-<tr>
-<td>Mike Boffey (Vice Chair)</td>	<td>01948 871250</td>
-</tr>
-<tr>
-<td>Terry Bailey</td>	<td>01270 811551</td>
-</tr>
-<tr>
-<td>John Childs</td>	<td>01270 811927</td>
-</tr>
-<tr>
-<td>Cheryl Cooper (Vice Chair)</td>	<td>01270 812075</td>
-</tr>
-<tr>
-<td>    Ian Barton (Chairman)</td>	<td>0798 938 5393</td>
-</tr>
-<tr>
-<td>Sarah Callendar Beckett</td>	<td>01948 662880</td>
-</tr>
-<tr>
-<td>Rob Vernon</td>
-</tr>
-<tr>
-<td>Clive Pownall</td>
-</tr>
+| Councillor | Phone | Email |
+|-------------------------|------|-----:|
+| Mike Boffey (vice chair)| 01948 871250 | mw.boffey@gmail.com |
+| Terry Bailey| 01270 811551 | terencebailey64@yahoo.co.uk |
+| John Childs| 01270 811927 | johnch042004@yahoo.co.uk|
+| Cheryl Cooper| 01270 812075 | cheryl@brooksmill.co.uk |
+| Sarah Callendar Beckett| 01948 662880| sarahcb@combermereabbey.co.uk |
+| Ian Barton (chairman| 01948 871375 | ian@manor-farm.org |
+| Rob Vernon| 01270 | vernon1001@hotmail.com |
+| Clive Pownall| 01948 | liveyvonne@hotmail.com|
 
-</table>
-
-Your Parish Clerk is: Nick Powell 01270 588896
+## Parish Clerk.
+Your Parish Clerk is: Nick Powell. Tel: 01270 588896
 
 ## Meetings.
 Meetings are held either in the Lightwood Green Chapel, or the Burleydam Community Room.
