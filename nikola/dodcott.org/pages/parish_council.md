@@ -32,4 +32,4 @@ format. To view them click
 .
 
 ## Upcoming Meetings.
-The next meeting is on
+The next meeting is on Monday 8th January 2018 at 7:00pm in Lightwood Green Chapel.
