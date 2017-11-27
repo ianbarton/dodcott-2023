@@ -1,4 +1,3 @@
-#+BEGIN_COMMENT
 .. title: About
 .. slug: about
 .. date: 2017-11-05 15:12:15 UTC
@@ -7,12 +6,6 @@
 .. link:
 .. description:
 .. type: text
-#+END_COMMENT
-
-Title: About
-Date: 2014-01-07
-Category: Blog
-Author: Ian Barton.
 
 The parish of Dodcott-cum-Wilkesley is the most southerly parish in
 the county of Cheshire in North West England. It is a rural area with
