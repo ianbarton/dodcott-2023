@@ -1,16 +1,10 @@
-#+BEGIN_COMMENT
 .. title: Parish Council
-.. slug: parish_council
 .. date: 2017-11-05 15:38:21 UTC
-.. tags: parishcouncil
+.. slug: parish_council
 .. category:
 .. link:
 .. description:
 .. type: text
-#+END_COMMENT
-
-Title: Parish Council
-Date: 2013-09-19
 
 Your Parish Councillors are:
 
