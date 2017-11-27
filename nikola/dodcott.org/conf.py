@@ -137,12 +137,16 @@ NAVIGATION_LINKS = {
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
         ("/pages/about/index.html", "About"),
-        ("/pages/parish_council/index.html", "Parish Council"),
-        ("/pages/transparency/index.html", "Transparency"),
+
+        ((("/pages/parish_council/index.html", "Parish Council"),
+          ("/pages/transparency/index.html", "Transparency"),
+          ('/pages/meetings/parish-council-meetings/index.html', 'Parish Council Meetings')), 'Parish Council'),
 
         ("/pages/contributing/index.html", "Contributing"),
-        ((("/pages/contact/index.html", "Contact"),
-          ('/bar', 'BAR')), 'Contact details'),
+        ("/pages/contact/index.html", "Contact"),
+
+        #((("/pages/contact/index.html", "Contact"),
+        #  ('/pages/meetings/index.html', 'Meetings')), 'Meetings'),
 
         ("/rss.xml", "RSS feed"),
 
