@@ -57,7 +57,7 @@ contact me.
 ** Basic List of Things You Need.
    Note all the software you need is Open Source and free.
 
-- [[http://python.org][Python]] . You need the latest 2.x version, not a version 3.x.
+- [[http://python.org][Python]] . You need the latest 2.x version, not a version 2.x.
 - [[http://git-scm.com/][Git]]. A version control system.
 - A decent text editor, NOT a word processor. If you are using Windows
   Notepad++ is supposed to be good.
@@ -72,11 +72,19 @@ I would strongly recommend that you set up Python in a [[https://wiki.archlinux.
 packages without interfering with your computer's own installed Python
 packages.
 
-** Installing Pelican.
-You can install pelican from Python using either easy_install or
-pip. See the [[http://docs.getpelican.com/en/3.3.0/getting_started.html][Pelican]] documents for full details. If you want to write
-content using [[http://daringfireball.net/projects/markdown/][Markdown]] you will need to install the Python Markdown
-package using either easy_install or pip.
+** Installing Nikola.
+It is strongly recommended that you use the pip software management tool, which
+is built into Python.
+
+From a command prompt run:
+
+pip install nikola.
+
+You will also need to install the Markdown package for Python:
+
+** Using Nikola.
+The full documentation for Nikola is available at [[https://getnikola.com/handbook.html][Nikola handbook]].
+
 
 ** Getting the Source Code.
 You need to download the source code and all the content for the site
@@ -88,21 +96,18 @@ repository on the Github web site.
 This will create a copy of everything on Github to a directory called dodcott-cum-wilkesley.
 
 
-** Running the Site.
+** Running the Site on Your Own Computer.
 Once you have used git  to clone the site to your local computer,  change
-to the pelican subdirectory:
+to the  subdirectory:
 
 #+begin_src sh
-cd dodcott.org.pelican/pelican
+cd dodcott.org.pelican           dodcott.org.pelican/nikola/dodcott.org
 #+end_src
 
-A simple Makefile is provided to generate the site. If you don't have,
-or want to use make,  you can run the commands manually.
-
-Running:
+Building the site:
 
 #+begin_src sh
-make publish
+nikola build
 #+end_src
 
 will generate all the content in the output subdirectory. This
@@ -112,13 +117,8 @@ You can use Python's built in web server to view the site on your
 local machine:
 
 #+begin_src sh
-make serve
+nikola serve
 #+end_src
 
 You can view the site by opening http://localhost:8000 in your web
 browser.
-
-*** Creating New Content.
-New posts should be placed in the content folder. You can use several
-different types of  markup. For a good overview of the process see the
-Pelican [[http://docs.getpelican.com/en/3.3.0/getting_started.html][getting started]] guide.
