@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://dodcott.org/</loc>
-  <lastmod>2017-11-05T17:46:00Z</lastmod>
+  <lastmod>2018-01-07T15:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2014/</loc>
@@ -26,8 +26,12 @@
   <lastmod>2017-11-05T17:46:00Z</lastmod>
  </url>
  <url>
+  <loc>http://dodcott.org/2018/</loc>
+  <lastmod>2018-01-07T15:56:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2017-11-27T16:51:00Z</lastmod>
+  <lastmod>2018-01-07T15:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
@@ -71,11 +75,11 @@
  </url>
  <url>
   <loc>http://dodcott.org/index-1.html</loc>
-  <lastmod>2017-11-27T16:51:00Z</lastmod>
+  <lastmod>2018-01-07T15:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-2.html</loc>
-  <lastmod>2017-11-27T16:51:00Z</lastmod>
+  <lastmod>2018-01-07T15:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/listings/</loc>
@@ -208,5 +212,9 @@
  <url>
   <loc>http://dodcott.org/posts/2017-13-11-parish-council-meeting/</loc>
   <lastmod>2017-11-07T18:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-01-08-parishcouncil-meeting/</loc>
+  <lastmod>2018-01-07T15:56:00Z</lastmod>
  </url>
 </urlset>
