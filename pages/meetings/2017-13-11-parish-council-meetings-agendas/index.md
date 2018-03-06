@@ -1,6 +1,6 @@
 #+BEGIN_COMMENT
 .. title: Parish Council Meeting and Agendas.
-.. slug: 2017-13-11-parish-council-meeting
+.. slug: 2017-13-11-parish-council-meetings-agendas
 .. date: 2017-11-07 18:35:35 UTC
 .. tags: parishcouncil
 .. category:
