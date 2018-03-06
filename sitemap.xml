@@ -31,7 +31,7 @@
  </url>
  <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2018-03-06T13:39:00Z</lastmod>
+  <lastmod>2018-03-06T14:01:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
@@ -75,11 +75,11 @@
  </url>
  <url>
   <loc>http://dodcott.org/index-1.html</loc>
-  <lastmod>2018-03-06T13:39:00Z</lastmod>
+  <lastmod>2018-03-06T14:01:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-2.html</loc>
-  <lastmod>2018-03-06T13:39:00Z</lastmod>
+  <lastmod>2018-03-06T14:01:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/listings/</loc>
@@ -100,6 +100,14 @@
  <url>
   <loc>http://dodcott.org/pages/meetings/2017-13-11-parish-council-meetings-agendas/</loc>
   <lastmod>2018-03-06T13:47:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/meetings/meetings-agendas/</loc>
+  <lastmod>2018-03-06T14:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/meetings/minutes-agendas/</loc>
+  <lastmod>2018-03-06T14:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/meetings/parish-council-meetings/</loc>
@@ -220,5 +228,13 @@
  <url>
   <loc>http://dodcott.org/posts/2018-01-08-parishcouncil-meeting/</loc>
   <lastmod>2018-01-07T15:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-03-06-parish-council-meeting/</loc>
+  <lastmod>2018-03-06T13:55:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-03-12-parish-council-meeting/</loc>
+  <lastmod>2018-03-06T13:52:00Z</lastmod>
  </url>
 </urlset>
