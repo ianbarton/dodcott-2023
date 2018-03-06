@@ -140,7 +140,7 @@ NAVIGATION_LINKS = {
 
         ((("/pages/parish_council/index.html", "Parish Council"),
           ("/pages/transparency/index.html", "Transparency"),
-          ('/pages/meetings/parish-council-meetings/index.html', 'Parish Council Meetings')), 'Parish Council'),
+          ('/pages/meetings/parish-council-meetings/index.html', 'Parish Council Meetings and Agendas.')), 'Parish Council'),
 
         ("/pages/contributing/index.html", "Contributing"),
         ("/pages/contact/index.html", "Contact"),
