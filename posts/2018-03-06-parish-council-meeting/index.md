@@ -1,7 +1,7 @@
 #+BEGIN_COMMENT
 .. title: Parish Council Meeting Monday 12th March, 2018.
-.. slug: 2018-03-12-parish-council-meeting
-.. date: 2018-03-07 18:35:35 UTC
+.. slug: 2018-03-06-parish-council-meeting
+.. date: 2018-03-06 08:00:00 UTC
 .. tags: parishcouncil
 .. category:
 .. link:
