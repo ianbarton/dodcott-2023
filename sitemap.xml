@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://dodcott.org/</loc>
-  <lastmod>2018-01-07T15:56:00Z</lastmod>
+  <lastmod>2018-07-30T17:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2014/</loc>
@@ -31,11 +31,15 @@
  </url>
  <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2018-07-01T18:05:00Z</lastmod>
+  <lastmod>2018-07-30T17:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
-  <lastmod>2017-11-08T09:40:00Z</lastmod>
+  <lastmod>2018-07-30T16:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/accounts/</loc>
+  <lastmod>2018-07-30T16:50:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/affordablehousing/</loc>
@@ -48,6 +52,18 @@
  <url>
   <loc>http://dodcott.org/categories/cat_parishcouncil-agm/</loc>
   <lastmod>2017-11-05T17:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/cat_posts/</loc>
+  <lastmod>2018-07-30T16:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/cat_posts/index-1.html</loc>
+  <lastmod>2018-07-30T17:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/cat_posts/index-2.html</loc>
+  <lastmod>2018-07-30T17:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/github/</loc>
@@ -75,11 +91,15 @@
  </url>
  <url>
   <loc>http://dodcott.org/index-1.html</loc>
-  <lastmod>2018-07-01T18:03:00Z</lastmod>
+  <lastmod>2018-07-30T17:02:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-2.html</loc>
-  <lastmod>2018-07-01T18:05:00Z</lastmod>
+  <lastmod>2018-07-30T17:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/index-3.html</loc>
+  <lastmod>2018-07-30T17:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/listings/</loc>
@@ -100,6 +120,10 @@
  <url>
   <loc>http://dodcott.org/pages/meetings/2017-13-11-parish-council-meetings-agendas/</loc>
   <lastmod>2018-07-01T18:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/meetings/minutes-agendas/</loc>
+  <lastmod>2018-07-09T15:24:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/meetings/parish-council-meetings/</loc>
@@ -222,6 +246,10 @@
   <lastmod>2018-01-07T15:56:00Z</lastmod>
  </url>
  <url>
+  <loc>http://dodcott.org/posts/2018-03-06-parish-council-meeting/</loc>
+  <lastmod>2018-07-09T15:24:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://dodcott.org/posts/2018-03-12-parish-council-meeting/</loc>
   <lastmod>2018-07-01T18:03:00Z</lastmod>
  </url>
@@ -232,5 +260,13 @@
  <url>
   <loc>http://dodcott.org/posts/2018-06-30-parish-council-meeting/</loc>
   <lastmod>2018-07-01T18:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-07-29-parish-council-accounts/</loc>
+  <lastmod>2018-07-30T16:50:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-07-30-parishcouncil-meeting/</loc>
+  <lastmod>2018-07-30T17:12:00Z</lastmod>
  </url>
 </urlset>

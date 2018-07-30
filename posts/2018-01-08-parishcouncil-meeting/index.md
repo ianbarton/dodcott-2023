@@ -1,7 +1,7 @@
 <!--
 .. title: Parish Council Meeting Monday, 8th January  at 7:00pm.
 .. slug: 2018-01-08-parishcouncil-meeting
-.. date: 2018-01-002 13:49:30 UTC
+.. date: 2018-01-08 13:49:30 UTC
 .. tags: parishcouncil
 .. category:
 .. link:
