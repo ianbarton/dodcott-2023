@@ -1312,7 +1312,7 @@ BODY_END = """
 # If you hate "Filenames with Capital Letters and Spaces.md", you should
 # set this to true.
 FILE_METADATA_UNSLUGIFY_TITLES=True
-UNSLUGIFY_TITLES = True
+#UNSLUGIFY_TITLES = True
 
 # Additional metadata that is added to a post when creating a new_post
 # ADDITIONAL_METADATA = {}
