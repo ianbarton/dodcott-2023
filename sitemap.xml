@@ -31,11 +31,11 @@
  </url>
  <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2018-08-14T11:13:00Z</lastmod>
+  <lastmod>2018-09-10T08:23:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
-  <lastmod>2018-07-30T16:50:00Z</lastmod>
+  <lastmod>2018-08-14T11:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/accounts/</loc>
@@ -52,22 +52,6 @@
  <url>
   <loc>http://dodcott.org/categories/cat_parishcouncil-agm/</loc>
   <lastmod>2017-11-05T17:46:00Z</lastmod>
- </url>
- <url>
-  <loc>http://dodcott.org/categories/cat_posts/</loc>
-  <lastmod>2018-08-14T11:13:00Z</lastmod>
- </url>
- <url>
-  <loc>http://dodcott.org/categories/cat_posts/index-1.html</loc>
-  <lastmod>2018-07-30T17:02:00Z</lastmod>
- </url>
- <url>
-  <loc>http://dodcott.org/categories/cat_posts/index-2.html</loc>
-  <lastmod>2018-08-14T11:13:00Z</lastmod>
- </url>
- <url>
-  <loc>http://dodcott.org/categories/cat_posts/index-3.html</loc>
-  <lastmod>2018-08-14T11:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/github/</loc>
@@ -95,15 +79,15 @@
  </url>
  <url>
   <loc>http://dodcott.org/index-1.html</loc>
-  <lastmod>2018-07-30T17:02:00Z</lastmod>
+  <lastmod>2018-09-10T08:23:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-2.html</loc>
-  <lastmod>2018-07-30T17:12:00Z</lastmod>
+  <lastmod>2018-09-10T08:23:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-3.html</loc>
-  <lastmod>2018-08-14T11:13:00Z</lastmod>
+  <lastmod>2018-09-10T08:23:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/listings/</loc>
@@ -268,5 +252,9 @@
  <url>
   <loc>http://dodcott.org/posts/2018-08-13-parishcouncil-meeting/</loc>
   <lastmod>2018-08-14T11:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-09-06-parishcouncil-meeting/</loc>
+  <lastmod>2018-09-10T08:23:00Z</lastmod>
  </url>
 </urlset>
