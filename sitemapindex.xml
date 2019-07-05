@@ -31,26 +31,34 @@
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/categories/parishcouncil.xml</loc>
-  <lastmod>2019-05-12T08:50:00Z</lastmod>
+  <lastmod>2019-07-05T10:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/categories/transparency.xml</loc>
   <lastmod>2019-01-01T10:50:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://dodcott.org/galleries/goldsmith_signpost/rss.xml</loc>
+  <lastmod>2019-06-04T15:22:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://dodcott.org/galleries/rss.xml</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2019-06-04T12:10:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://dodcott.org/galleries/wilkesley_signpost/rss.xml</loc>
+  <lastmod>2019-06-04T15:29:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/galleries/www1_memorial_ceremony/rss.xml</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2019-06-04T12:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/rss.xml</loc>
-  <lastmod>2019-05-12T08:50:00Z</lastmod>
+  <lastmod>2019-07-05T10:10:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/sitemap.xml</loc>
-  <lastmod>2019-05-12T08:50:00Z</lastmod>
+  <lastmod>2019-07-05T10:10:00Z</lastmod>
  </sitemap>
 </sitemapindex>

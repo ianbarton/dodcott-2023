@@ -35,7 +35,7 @@
  </url>
  <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2019-05-12T08:39:00Z</lastmod>
+  <lastmod>2019-07-05T10:10:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
@@ -75,7 +75,15 @@
  </url>
  <url>
   <loc>http://dodcott.org/galleries/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2019-05-23T14:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/galleries/goldsmith_signpost/</loc>
+  <lastmod>2019-05-23T14:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/galleries/wilkesley_signpost/</loc>
+  <lastmod>2019-05-23T14:15:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/galleries/www1_memorial_ceremony/</loc>
@@ -91,7 +99,7 @@
  </url>
  <url>
   <loc>http://dodcott.org/index-3.html</loc>
-  <lastmod>2019-05-12T08:39:00Z</lastmod>
+  <lastmod>2019-07-05T10:10:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/listings/</loc>
@@ -266,15 +274,19 @@
   <lastmod>2019-01-01T10:51:00Z</lastmod>
  </url>
  <url>
-  <loc>http://dodcott.org/posts/2019-01-01-parishcouncil-meeting/</loc>
-  <lastmod>2019-05-12T08:39:00Z</lastmod>
- </url>
- <url>
   <loc>http://dodcott.org/posts/2019-03-11-parishcouncil-meeting/</loc>
   <lastmod>2019-05-12T08:50:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2019-05-13-annual-parish-meeting-and-annual-general-meeting./</loc>
   <lastmod>2019-05-09T10:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-05-23-fingerpost-renovations/</loc>
+  <lastmod>2019-05-23T14:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-07-08-parish-council-meeting/</loc>
+  <lastmod>2019-07-05T10:10:00Z</lastmod>
  </url>
 </urlset>
