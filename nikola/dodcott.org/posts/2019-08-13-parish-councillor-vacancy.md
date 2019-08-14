@@ -10,3 +10,9 @@
 -->
 
 The is currently a vacancy for a Parish Councillor. If you wouldlike to beconsidered for the vacancy please contact the Parish Clerk (Nick Powell)
+
+Nick's contact details are:
+
+nicholaspowell46@btinternet.com
+
+Tel: 01270 58896
