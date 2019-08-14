@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-The is currently a vacancy for a Parish Councillor. If you wouldlike to beconsidered for the vacancy please contact the Parish Clerk (Nick Powell)
+The is currently a vacancy for a Parish Councillor. If you would like to be considered for the vacancy please contact the Parish Clerk (Nick Powell)
 
 Nick's contact details are:
 
