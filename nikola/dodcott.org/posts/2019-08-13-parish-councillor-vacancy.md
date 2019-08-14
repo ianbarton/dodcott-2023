@@ -1,7 +1,7 @@
 <!--
 .. title: Parish Councillor Vacancy.
 .. slug: 2019-08-13-parish-council-vacancy
-.. date: 2019-07-04 13:49:30 UTC
+.. date: 2019-08-13 13:49:30 UTC
 .. tags: parishcouncil
 .. category:
 .. link:
