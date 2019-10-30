@@ -12,7 +12,6 @@ Your Parish Councillors are:
 |-------------------------|------|-----:|
 | Terry Bailey| 01270 811551 | terencebailey64@yahoo.co.uk |
 | John Childs| 01270 811927 | johnch042004@yahoo.co.uk|
-| Cheryl Cooper| 01270 812075 | cheryl@brooksmill.co.uk |
 | Sarah Callendar Beckett| 01948 662880| sarahcb@combermereabbey.co.uk |
 | Ian Barton (chairman)| 0798 938 5393 | ian@manor-farm.org |
 | Rob Vernon| 01270 812079| vernon1001@hotmail.com |
