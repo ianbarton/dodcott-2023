@@ -9,4 +9,4 @@
 
 
 ## Parish Council Meetings.
-The next meeting is on Monday 11th November at 7:00pm in Burleydam Community Room.
+The next meeting is on Monday 11th November 2019 at 7:00pm in Burleydam Community Room.
