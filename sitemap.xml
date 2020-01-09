@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://dodcott.org/</loc>
-  <lastmod>2019-08-14T13:29:00Z</lastmod>
+  <lastmod>2020-01-09T09:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2014/</loc>
@@ -34,8 +34,12 @@
   <lastmod>2019-03-06T10:52:00Z</lastmod>
  </url>
  <url>
+  <loc>http://dodcott.org/2020/</loc>
+  <lastmod>2020-01-09T09:57:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2019-11-06T13:57:00Z</lastmod>
+  <lastmod>2020-01-09T09:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
@@ -91,19 +95,19 @@
  </url>
  <url>
   <loc>http://dodcott.org/index-1.html</loc>
-  <lastmod>2019-09-16T10:48:00Z</lastmod>
+  <lastmod>2020-01-09T09:47:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-2.html</loc>
-  <lastmod>2019-09-16T10:48:00Z</lastmod>
+  <lastmod>2020-01-09T09:47:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-3.html</loc>
-  <lastmod>2019-09-16T10:48:00Z</lastmod>
+  <lastmod>2020-01-09T09:47:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-4.html</loc>
-  <lastmod>2019-11-06T13:57:00Z</lastmod>
+  <lastmod>2020-01-09T09:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/listings/</loc>
@@ -314,7 +318,15 @@
   <lastmod>2019-10-30T10:38:00Z</lastmod>
  </url>
  <url>
+  <loc>http://dodcott.org/posts/2019-10-10-summer-newsletter/</loc>
+  <lastmod>2020-01-09T09:47:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://dodcott.org/posts/2019-11-05-parish-council-meeting/</loc>
   <lastmod>2019-11-06T13:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2020-01-08-parish-council-meeting/</loc>
+  <lastmod>2020-01-09T09:57:00Z</lastmod>
  </url>
 </urlset>
