@@ -10,12 +10,12 @@ Your Parish Councillors are:
 
 | Councillor | Phone | Email |
 |-------------------------|------|-----:|
-| Terry Bailey| 01270 811551 | terencebailey64@yahoo.co.uk |
 | John Childs| 01270 811927 | johnch042004@yahoo.co.uk|
 | Sarah Callendar Beckett| 01948 662880| sarahcb@combermereabbey.co.uk |
 | Ian Barton (chairman)| 0798 938 5393 | ian@manor-farm.org |
 | Rob Vernon| 01270 812079| vernon1001@hotmail.com |
-| Clive Pownall| 01948 | liveyvonne@hotmail.com|
+| Clive Pownall| 01948 871775 | liveyvonne@hotmail.com|
+|Tony Nakhimoff|0787 967 4955|tonyandsian6dol@btinternet.com|
 
 ## Parish Clerk.
 Your Parish Clerk is: Nick Powell. Tel: 01270 588896
@@ -30,4 +30,4 @@ format. To view them click
 .
 
 ## Upcoming Meetings.
-The next meeting is on 11th November 2019 at 7:00pm in Burleydam Community Room.
+The forthcoming AGM has been postponed because of COVID-19.
