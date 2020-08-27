@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://dodcott.org/</loc>
-  <lastmod>2020-05-02T08:47:00Z</lastmod>
+  <lastmod>2020-08-27T11:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2014/</loc>
@@ -35,15 +35,15 @@
  </url>
  <url>
   <loc>http://dodcott.org/2020/</loc>
-  <lastmod>2020-05-02T08:47:00Z</lastmod>
+  <lastmod>2020-08-27T11:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2020-05-02T08:53:00Z</lastmod>
+  <lastmod>2020-08-27T11:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
-  <lastmod>2020-05-02T08:47:00Z</lastmod>
+  <lastmod>2020-08-27T11:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/accounts/</loc>
@@ -71,7 +71,7 @@
  </url>
  <url>
   <loc>http://dodcott.org/categories/parishcouncil/</loc>
-  <lastmod>2020-05-02T08:47:00Z</lastmod>
+  <lastmod>2020-08-27T11:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/transparency/</loc>
@@ -79,35 +79,35 @@
  </url>
  <url>
   <loc>http://dodcott.org/galleries/</loc>
-  <lastmod>2020-05-02T08:47:00Z</lastmod>
+  <lastmod>2020-08-27T11:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/galleries/goldsmith_signpost/</loc>
-  <lastmod>2020-05-02T08:47:00Z</lastmod>
+  <lastmod>2020-08-27T11:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/galleries/wilkesley_signpost/</loc>
-  <lastmod>2020-05-02T08:47:00Z</lastmod>
+  <lastmod>2020-08-27T11:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/galleries/www1_memorial_ceremony/</loc>
-  <lastmod>2020-05-02T08:47:00Z</lastmod>
+  <lastmod>2020-08-27T11:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-1.html</loc>
-  <lastmod>2020-05-02T08:53:00Z</lastmod>
+  <lastmod>2020-08-27T11:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-2.html</loc>
-  <lastmod>2020-05-02T08:53:00Z</lastmod>
+  <lastmod>2020-08-27T11:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-3.html</loc>
-  <lastmod>2020-05-02T08:53:00Z</lastmod>
+  <lastmod>2020-08-27T11:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-4.html</loc>
-  <lastmod>2020-05-02T08:53:00Z</lastmod>
+  <lastmod>2020-08-27T11:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/listings/</loc>
@@ -147,7 +147,7 @@
  </url>
  <url>
   <loc>http://dodcott.org/pages/transparency/</loc>
-  <lastmod>2020-05-02T08:47:00Z</lastmod>
+  <lastmod>2020-08-27T11:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-01-01-happy-new-year/</loc>
@@ -335,6 +335,14 @@
  </url>
  <url>
   <loc>http://dodcott.org/posts/2020-05-01-agm-postponed/</loc>
-  <lastmod>2020-05-02T08:47:00Z</lastmod>
+  <lastmod>2020-08-27T11:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2020-08-26-meeting/</loc>
+  <lastmod>2020-08-27T11:41:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2020-09-03-meeting/</loc>
+  <lastmod>2020-08-27T11:41:00Z</lastmod>
  </url>
 </urlset>
