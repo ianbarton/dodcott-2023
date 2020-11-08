@@ -7,131 +7,279 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://dodcott.org/</loc>
-  <lastmod>2020-08-27T11:41:00Z</lastmod>
+  <lastmod>2020-11-08T13:44:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2014/</loc>
-  <lastmod>2017-11-05T17:46:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/2014/index.sync-conflict-20201024-183021-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2015/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/2015/index.sync-conflict-20201024-183042-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2016/</loc>
-  <lastmod>2017-11-05T17:46:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/2016/index.sync-conflict-20201024-182954-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2017/</loc>
-  <lastmod>2017-11-05T17:46:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/2017/index.sync-conflict-20201024-182959-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2018/</loc>
-  <lastmod>2018-12-13T09:47:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/2018/index.sync-conflict-20201024-183000-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2019/</loc>
-  <lastmod>2019-03-06T10:52:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/2019/index.sync-conflict-20200116-102205-BXS4LOP.html</loc>
+  <lastmod>2019-10-01T14:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/2019/index.sync-conflict-20201024-183018-GJLSUWZ.html</loc>
+  <lastmod>2019-11-06T13:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2020/</loc>
-  <lastmod>2020-08-27T11:41:00Z</lastmod>
+  <lastmod>2020-11-08T13:44:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2020-08-27T11:43:00Z</lastmod>
+  <lastmod>2020-11-08T13:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/archive.sync-conflict-20200116-102203-BXS4LOP.html</loc>
+  <lastmod>2019-10-01T14:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/archive.sync-conflict-20201024-183022-GJLSUWZ.html</loc>
+  <lastmod>2019-11-06T13:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
-  <lastmod>2020-08-27T11:41:00Z</lastmod>
+  <lastmod>2020-11-08T13:44:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/accounts/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/accounts/index.sync-conflict-20201024-182959-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/affordablehousing/</loc>
-  <lastmod>2018-11-21T13:54:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/affordablehousing/index.sync-conflict-20201024-182953-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/agm/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/agm/index.sync-conflict-20201024-183018-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/cat_parishcouncil-agm/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/cat_parishcouncil-agm/index.sync-conflict-20201024-183002-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/github/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/github/index.sync-conflict-20201024-183017-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/index.sync-conflict-20201024-183042-GJLSUWZ.html</loc>
+  <lastmod>2019-11-06T13:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/news/</loc>
-  <lastmod>2018-11-21T13:54:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/news/index.sync-conflict-20201024-183000-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/parishcouncil/</loc>
-  <lastmod>2020-08-27T11:41:00Z</lastmod>
+  <lastmod>2020-11-08T13:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/parishcouncil/index.sync-conflict-20200116-102159-BXS4LOP.html</loc>
+  <lastmod>2019-10-01T14:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/parishcouncil/index.sync-conflict-20201024-183017-GJLSUWZ.html</loc>
+  <lastmod>2019-11-06T13:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/transparency/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/categories/transparency/index.sync-conflict-20201024-182955-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/galleries/</loc>
-  <lastmod>2020-08-27T11:41:00Z</lastmod>
+  <lastmod>2020-11-08T13:44:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/galleries/goldsmith_signpost/</loc>
-  <lastmod>2020-08-27T11:41:00Z</lastmod>
+  <lastmod>2020-11-08T13:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/galleries/goldsmith_signpost/index.sync-conflict-20201024-183022-GJLSUWZ.html</loc>
+  <lastmod>2019-10-30T09:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/galleries/index.sync-conflict-20201024-182951-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/galleries/wilkesley_signpost/</loc>
-  <lastmod>2020-08-27T11:41:00Z</lastmod>
+  <lastmod>2020-11-08T13:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/galleries/wilkesley_signpost/index.sync-conflict-20201024-183042-GJLSUWZ.html</loc>
+  <lastmod>2019-10-30T09:12:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/galleries/www1_memorial_ceremony/</loc>
-  <lastmod>2020-08-27T11:41:00Z</lastmod>
+  <lastmod>2020-11-08T13:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/galleries/www1_memorial_ceremony/index.sync-conflict-20201024-183017-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-1.html</loc>
-  <lastmod>2020-08-27T11:43:00Z</lastmod>
+  <lastmod>2020-11-08T13:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/index-1.sync-conflict-20201024-182953-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-2.html</loc>
-  <lastmod>2020-08-27T11:43:00Z</lastmod>
+  <lastmod>2020-11-08T13:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/index-2.sync-conflict-20201024-182957-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-3.html</loc>
-  <lastmod>2020-08-27T11:43:00Z</lastmod>
+  <lastmod>2020-11-08T13:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/index-3.sync-conflict-20201024-183017-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-4.html</loc>
-  <lastmod>2020-08-27T11:43:00Z</lastmod>
+  <lastmod>2020-11-08T13:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/index-4.sync-conflict-20200116-102210-BXS4LOP.html</loc>
+  <lastmod>2019-10-01T14:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/index-4.sync-conflict-20201024-183021-GJLSUWZ.html</loc>
+  <lastmod>2019-11-06T13:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/index.sync-conflict-20200116-102200-BXS4LOP.html</loc>
+  <lastmod>2019-10-01T14:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/index.sync-conflict-20201024-183003-GJLSUWZ.html</loc>
+  <lastmod>2019-11-06T13:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/listings/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/listings/index.sync-conflict-20201024-183024-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/about/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/about/index.sync-conflict-20201024-182959-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/contact/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/contact/index.sync-conflict-20201024-183017-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/contributing/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/contributing/index.sync-conflict-20201024-183017-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/meetings/minutes-agendas/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/meetings/minutes-agendas/index.sync-conflict-20201024-182957-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/meetings/parish-council-meetings/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/meetings/parish-council-meetings/index.sync-conflict-20200116-102200-BXS4LOP.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/meetings/parish-council-meetings/index.sync-conflict-20201024-183002-GJLSUWZ.html</loc>
+  <lastmod>2019-10-30T10:38:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/newsletter/</loc>
@@ -139,187 +287,387 @@
  </url>
  <url>
   <loc>http://dodcott.org/pages/parish_council/</loc>
-  <lastmod>2020-05-02T08:47:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/parish_council/index.sync-conflict-20200116-102202-BXS4LOP.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/parish_council/index.sync-conflict-20201024-183017-GJLSUWZ.html</loc>
+  <lastmod>2019-10-30T10:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/superfast_broadband/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/superfast_broadband/index.sync-conflict-20201024-183018-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/transparency/</loc>
-  <lastmod>2020-08-27T11:41:00Z</lastmod>
+  <lastmod>2020-11-08T13:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/pages/transparency/index.sync-conflict-20201024-183003-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-01-01-happy-new-year/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2014-01-01-happy-new-year/index.sync-conflict-20201024-182952-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-01-07-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2014-01-07-parish-council-meeting/index.sync-conflict-20201024-183018-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-03-10-parish-council-meeting./</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2014-03-10-parish-council-meeting./index.sync-conflict-20201024-183024-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-05-12-annual-parish-meeting-and-agm./</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2014-05-12-annual-parish-meeting-and-agm./index.sync-conflict-20201024-182954-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-07-14-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2014-07-14-parish-council-meeting/index.sync-conflict-20201024-183042-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-08-04-world-war-one-remembrance-ceremony./</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2014-08-04-world-war-one-remembrance-ceremony./index.sync-conflict-20201024-182959-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-08-11-parish-council-egm/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2014-08-11-parish-council-egm/index.sync-conflict-20201024-182954-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-09-01-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2014-09-01-parish-council-meeting/index.sync-conflict-20201024-182959-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-09-04-war-memorial-renovation./</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2014-09-04-war-memorial-renovation./index.sync-conflict-20201024-182955-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2014-11-07-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2014-11-07-parish-council-meeting/index.sync-conflict-20201024-183021-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2015-01-02-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2015-01-02-parish-council-meeting/index.sync-conflict-20201024-183017-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2015-03-02-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2015-03-02-parish-council-meeting/index.sync-conflict-20201024-183042-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2015-05-11-parish-council-annual-meeting/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2015-05-11-parish-council-annual-meeting/index.sync-conflict-20201024-183042-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2015-09-06-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2015-09-06-parish-council-meeting/index.sync-conflict-20201024-182959-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2015-11-09-affordable-housing/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2015-11-09-affordable-housing/index.sync-conflict-20201024-183024-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2016-03-07-affordable-housing/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2016-03-07-affordable-housing/index.sync-conflict-20201024-182951-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2016-03-07-parishcouncil-meeting/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2016-03-07-parishcouncil-meeting/index.sync-conflict-20201024-183042-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2016-11-14-affordable-housing/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2016-11-14-affordable-housing/index.sync-conflict-20201024-182951-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-01-09-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2017-01-09-parish-council-meeting/index.sync-conflict-20201024-183017-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-03-13-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2017-03-13-parish-council-meeting/index.sync-conflict-20201024-183041-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-05-08-parish-council-agm/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2017-05-08-parish-council-agm/index.sync-conflict-20201024-183018-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-05-21-transparency/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2017-05-21-transparency/index.sync-conflict-20201024-182959-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-06-10-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2017-06-10-parish-council-meeting/index.sync-conflict-20201024-182959-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-11-08-moved-to-github/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2017-11-08-moved-to-github/index.sync-conflict-20201024-182956-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2017-13-11-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2017-13-11-parish-council-meeting/index.sync-conflict-20201024-183024-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2018-01-08-parishcouncil-meeting/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-01-08-parishcouncil-meeting/index.sync-conflict-20201024-182958-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2018-05-09-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-05-09-parish-council-meeting/index.sync-conflict-20201024-183042-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2018-06-30-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-06-30-parish-council-meeting/index.sync-conflict-20201024-182958-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2018-07-29-parish-council-accounts/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-07-29-parish-council-accounts/index.sync-conflict-20201024-182952-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2018-07-30-parishcouncil-meeting/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-07-30-parishcouncil-meeting/index.sync-conflict-20201024-182957-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2018-08-13-parishcouncil-meeting/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-08-13-parishcouncil-meeting/index.sync-conflict-20201024-182955-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2018-09-06-parishcouncil-meeting/</loc>
-  <lastmod>2019-01-01T10:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-09-06-parishcouncil-meeting/index.sync-conflict-20201024-183017-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2018-11-12-parish-council-meeting/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-11-12-parish-council-meeting/index.sync-conflict-20201024-182952-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2018-12-11-parishcouncil-meeting/</loc>
-  <lastmod>2019-01-01T10:51:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-12-11-parishcouncil-meeting/index.sync-conflict-20200116-102205-BXS4LOP.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2018-12-11-parishcouncil-meeting/index.sync-conflict-20201024-183021-GJLSUWZ.html</loc>
+  <lastmod>2019-11-06T13:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2019-01-01-parishcouncil-meeting/</loc>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-01-01-parishcouncil-meeting/index.sync-conflict-20201024-183042-GJLSUWZ.html</loc>
   <lastmod>2019-10-30T10:41:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2019-03-11-parishcouncil-meeting/</loc>
-  <lastmod>2019-05-12T08:50:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-03-11-parishcouncil-meeting/index.sync-conflict-20200116-102210-BXS4LOP.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-03-11-parishcouncil-meeting/index.sync-conflict-20201024-183017-GJLSUWZ.html</loc>
+  <lastmod>2019-11-06T13:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2019-05-13-annual-parish-meeting-and-annual-general-meeting./</loc>
-  <lastmod>2019-05-09T10:18:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-05-13-annual-parish-meeting-and-annual-general-meeting./index.sync-conflict-20201024-183017-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2019-05-23-fingerpost-renovations/</loc>
-  <lastmod>2019-05-23T14:04:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-05-23-fingerpost-renovations/index.sync-conflict-20201024-182954-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2019-07-08-parish-council-meeting/</loc>
-  <lastmod>2019-07-05T10:10:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-07-08-parish-council-meeting/index.sync-conflict-20201024-182959-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2019-08-13-parish-council-vacancy/</loc>
-  <lastmod>2019-08-14T13:20:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-08-13-parish-council-vacancy/index.sync-conflict-20201024-182953-GJLSUWZ.html</loc>
+  <lastmod>2019-10-30T10:38:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2019-08-13-summer-newsletter/</loc>
-  <lastmod>2019-08-14T13:20:00Z</lastmod>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-08-13-summer-newsletter/index.sync-conflict-20201024-183018-GJLSUWZ.html</loc>
+  <lastmod>2019-09-16T10:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2019-09-15-parish-council-meeting/</loc>
+  <lastmod>2020-10-25T18:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-09-15-parish-council-meeting/index.sync-conflict-20201024-183003-GJLSUWZ.html</loc>
   <lastmod>2019-10-30T10:38:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2019-09-30-upcoming-events-at-burleydam-church./</loc>
-  <lastmod>2019-10-30T10:38:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-09-30-upcoming-events-at-burleydam-church./index.sync-conflict-20200116-102205-BXS4LOP.html</loc>
+  <lastmod>2019-10-01T14:22:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-09-30-upcoming-events-at-burleydam-church./index.sync-conflict-20201024-183002-GJLSUWZ.html</loc>
+  <lastmod>2019-11-06T13:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2019-10-10-summer-newsletter/</loc>
@@ -327,7 +675,11 @@
  </url>
  <url>
   <loc>http://dodcott.org/posts/2019-11-05-parish-council-meeting/</loc>
-  <lastmod>2019-11-06T13:53:00Z</lastmod>
+  <lastmod>2020-10-25T18:28:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2019-11-05-parish-council-meeting/index.sync-conflict-20201024-183018-GJLSUWZ.html</loc>
+  <lastmod>2019-11-06T13:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/posts/2020-01-08-parish-council-meeting/</loc>
@@ -339,10 +691,14 @@
  </url>
  <url>
   <loc>http://dodcott.org/posts/2020-08-26-meeting/</loc>
-  <lastmod>2020-08-27T11:41:00Z</lastmod>
+  <lastmod>2020-11-08T13:44:00Z</lastmod>
  </url>
  <url>
-  <loc>http://dodcott.org/posts/2020-09-03-meeting/</loc>
-  <lastmod>2020-08-27T11:41:00Z</lastmod>
+  <loc>http://dodcott.org/posts/2020-11-08-meeting/</loc>
+  <lastmod>2020-11-08T13:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2020-11-09-meeting/</loc>
+  <lastmod>2020-11-08T13:44:00Z</lastmod>
  </url>
 </urlset>
