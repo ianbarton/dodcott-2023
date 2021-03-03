@@ -16,16 +16,15 @@ Your Parish Councillors are:
 | Rob Vernon| 01270 812079| vernon1001@hotmail.com |
 | Clive Pownall| 01948 871775 | liveyvonne@hotmail.com|
 |Tony Nakhimoff|0787 967 4955|tonyandsian6dol@btinternet.com|
-|Brian Hughes|01948 871274 |brianhughes246@yahoo.co.uk|
 
 ## Parish Clerk.
-Your Parish Clerk is: Nick Powell. Tel: 01270 588896. Email: Nick.Powell62@outlook.com
+Your Parish Clerk is: Nick Powell. Tel: 01270 588896
 
 ## Meetings.
 Meetings are held either in the Lightwood Green Chapel, or the Burleydam Community Room.
 
 ## Minutes and Agendas.
-The Minutes and Agendas are now hosted on Google Documents in pdf
+The Minutes and Agendas ar now hosted on Google Documents in pdf
 format. To view them click
 [here](https://drive.google.com/folderview?id=0B2XEOILWjIK3RkE1aDdWSXJBTk0&usp=sharing)
 .
