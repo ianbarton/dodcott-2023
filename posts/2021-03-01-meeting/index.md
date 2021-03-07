@@ -8,9 +8,7 @@
 .. description:
 .. type: text
 -->
-There will be a meeting of the Parish Council on Monday 8th March 2021. Covid restrictions mean that we can't hold a public meeting and councillors can't meet to hold the meeting. The meeting will be held online.
 
-The agenda of the meeting and the minutes of the last meeting will be uploaded in a separate post.
+The Agenda for the meeting on Monday 08-03-20021 can be downloaded [here](https://drive.google.com/file/d/1Ski7tEMTYrFFMtcGEOvwAvAeLqDz-EjL/view?usp=sharing)
 
-
-<img src="/images/agenda-public-notice-2021-03-08.jpg">
+You can view the minutes of the November 2020 meeting [here](https://drive.google.com/file/d/1NZpQrHN1n1scVSMEhkcofse8FH2AfY6o/view?usp=sharing)
