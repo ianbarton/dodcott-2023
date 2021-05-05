@@ -8,8 +8,7 @@
 .. description:
 .. type: text
 -->
-
-There will be a meeting of the Parish Council on Monday 11th January 2021. Covid restrictions mean that we can't hold a public meeting and councillors can't meet to hold the meeting. The meeting will be held online.
+There will be a meeting of the Parish Council on Monday 8th March 2021. Covid restrictions mean that we can't hold a public meeting and councillors can't meet to hold the meeting. The meeting will be held online.
 
 The agenda of the meeting and the minutes of the last meeting will be uploaded in a separate post.
 
