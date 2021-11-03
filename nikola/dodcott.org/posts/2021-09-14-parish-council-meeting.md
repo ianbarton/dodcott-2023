@@ -1,7 +1,7 @@
 <!--
 .. title: Parish Council Meeting Monday 14th September 2021.
-.. slug: 2021-09-07-meeting
-.. date: 2021-09-07 02:49:30 UTC
+.. slug: 2021-09-30-meeting
+.. date: 2021-09-30 02:49:30 UTC
 .. tags: parishcouncil
 .. category:
 .. link:
@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-There will be a meeting of the Parish Council on Tuesday 14th February 2021 at Lightwood Green Chapel. All are welcome to attend.
+There will be a meeting of the Parish Council on Tuesday 14th February 2021 at Lightwood Green Chapel starting at 7:00pm. All are welcome to attend.
 
 Parish Clerk contact details:
 Tel: 01270 588896

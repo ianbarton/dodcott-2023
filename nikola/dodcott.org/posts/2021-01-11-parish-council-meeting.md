@@ -1,7 +1,7 @@
 <!--
-.. title: Parish Council Meeting Monday 11th January 2021.
-.. slug: 2021-01-06-meeting
-.. date: 2021-01-06 02:49:30 UTC
+.. title: Parish Council Meeting Monday 8th November 2021.
+.. slug: 2021-11-01-meeting
+.. date: 2021-11-01 02:49:30 UTC
 .. tags: parishcouncil
 .. category:
 .. link:
@@ -9,14 +9,13 @@
 .. type: text
 -->
 
-There will be a meeting of the Parish Council on Monday 11th January 2021. Covid restrictions mean that we can't hold a public meeting and councillors can't meet to hold the meeting. The meeting will be held online.
-
-Anybody wishing to join the on-line meeting should contact the Parish Clerk before 12:noon on Mon 11th January 2021.
+There will be a meeting of Dodcott-cum-Wilkesley Parish Council on
+Monday 8th November 2021 at 7.00pm. The meeting will be held at Lightwood Green Chapel.
 
 Parish Clerk contact details:
 Tel: 01270 588896
 Email: nick.powell62@outlook.com
 
-You can view the agenda [here](https://drive.google.com/file/d/1aDjj-g9zmwi99UfOXJuAKelzC78JbOp8/view?usp=sharing)
+You can view the agenda [here](https://drive.google.com/file/d/1d9RDyWGOIS8NK9MYna_K1L9WKMBd3GQ9/view?usp=sharing)
 
-You can view the minutes of the November 2020 meeting [here](https://drive.google.com/file/d/1uJi_sdS-bnlP91T43aj7uzJpQ4IzKjKZ/view?usp=sharing)
+You can view the minutes of the September 2021 meeting [here](https://drive.google.com/file/d/14eq3LBFs_jAMmeemZ-0nm2-odRCZbdyR/view?usp=sharing)
