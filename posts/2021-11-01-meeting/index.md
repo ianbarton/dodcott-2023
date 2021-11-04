@@ -10,12 +10,10 @@
 -->
 
 There will be a meeting of Dodcott-cum-Wilkesley Parish Council on
-Monday 8th November 2021 at 7.00pm. The meeting will be held at Lightwood Green Chapel.
+Monday 8th November 2021 at 7.00pm. The meeting will be held at Burleydam Church.
 
 Parish Clerk contact details:
 Tel: 01270 588896
 Email: nick.powell62@outlook.com
 
 You can view the agenda [here](https://drive.google.com/file/d/1d9RDyWGOIS8NK9MYna_K1L9WKMBd3GQ9/view?usp=sharing)
-
-You can view the minutes of the September 2021 meeting [here](https://drive.google.com/file/d/14eq3LBFs_jAMmeemZ-0nm2-odRCZbdyR/view?usp=sharing)

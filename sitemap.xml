@@ -43,7 +43,7 @@
  </url>
  <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2021-11-03T15:29:00Z</lastmod>
+  <lastmod>2021-11-04T10:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
@@ -115,7 +115,7 @@
  </url>
  <url>
   <loc>http://dodcott.org/index-5.html</loc>
-  <lastmod>2021-11-03T15:29:00Z</lastmod>
+  <lastmod>2021-11-04T10:22:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/about/</loc>
@@ -350,10 +350,6 @@
   <lastmod>2021-03-03T14:53:00Z</lastmod>
  </url>
  <url>
-  <loc>http://dodcott.org/posts/2021-01-06-meeting/</loc>
-  <lastmod>2021-03-03T14:53:00Z</lastmod>
- </url>
- <url>
   <loc>http://dodcott.org/posts/2021-03-05-meeting/</loc>
   <lastmod>2021-03-07T22:35:00Z</lastmod>
  </url>
@@ -388,5 +384,9 @@
  <url>
   <loc>http://dodcott.org/posts/2021-11-01-meeting/</loc>
   <lastmod>2021-11-03T15:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2021-11-07-meeting/</loc>
+  <lastmod>2021-11-04T10:22:00Z</lastmod>
  </url>
 </urlset>
