@@ -1,6 +1,6 @@
 <!--
 .. title: Parish Council Meeting Monday 10th January 2022.
-.. slug: 2022-0`-01-meeting
+.. slug: 2022-01-01-meeting
 .. date: 2022-01-01 02:49:30 UTC
 .. tags: parishcouncil
 .. category:
