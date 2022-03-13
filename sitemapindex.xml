@@ -6,115 +6,59 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://dodcott.org/categories/accounts.sync-conflict-20220311-102348-BFVZF45.xml</loc>
-  <lastmod>2021-07-16T10:35:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://dodcott.org/categories/accounts.xml</loc>
   <lastmod>2022-01-05T16:58:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://dodcott.org/categories/affordablehousing.sync-conflict-20220311-102349-BFVZF45.xml</loc>
-  <lastmod>2021-03-03T14:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/categories/affordablehousing.xml</loc>
   <lastmod>2022-01-05T16:58:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://dodcott.org/categories/agm.sync-conflict-20220311-102348-BFVZF45.xml</loc>
-  <lastmod>2021-03-03T14:48:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://dodcott.org/categories/agm.xml</loc>
   <lastmod>2022-01-05T16:58:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://dodcott.org/categories/cat_parishcouncil-agm.sync-conflict-20220311-102347-BFVZF45.xml</loc>
-  <lastmod>2021-03-03T14:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/categories/cat_parishcouncil-agm.xml</loc>
   <lastmod>2022-01-05T16:58:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://dodcott.org/categories/github.sync-conflict-20220311-102348-BFVZF45.xml</loc>
-  <lastmod>2021-03-03T14:48:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://dodcott.org/categories/github.xml</loc>
   <lastmod>2022-01-05T16:58:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://dodcott.org/categories/news.sync-conflict-20220311-102349-BFVZF45.xml</loc>
-  <lastmod>2021-03-03T14:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/categories/news.xml</loc>
   <lastmod>2022-01-05T16:58:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://dodcott.org/categories/parishcouncil.sync-conflict-20220311-102347-BFVZF45.xml</loc>
-  <lastmod>2021-11-04T10:33:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://dodcott.org/categories/parishcouncil.xml</loc>
-  <lastmod>2022-03-13T12:19:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://dodcott.org/categories/transparency.sync-conflict-20220311-102347-BFVZF45.xml</loc>
-  <lastmod>2021-03-03T14:48:00Z</lastmod>
+  <lastmod>2022-03-13T12:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/categories/transparency.xml</loc>
   <lastmod>2022-01-05T16:58:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://dodcott.org/galleries/goldsmith_signpost/rss.sync-conflict-20220311-102348-BFVZF45.xml</loc>
-  <lastmod>2021-03-03T14:48:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://dodcott.org/galleries/goldsmith_signpost/rss.xml</loc>
   <lastmod>2022-01-05T16:58:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://dodcott.org/galleries/rss.sync-conflict-20220311-102347-BFVZF45.xml</loc>
-  <lastmod>2021-03-03T14:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/galleries/rss.xml</loc>
   <lastmod>2022-01-05T16:58:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://dodcott.org/galleries/wilkesley_signpost/rss.sync-conflict-20220311-102344-BFVZF45.xml</loc>
-  <lastmod>2021-03-03T14:48:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://dodcott.org/galleries/wilkesley_signpost/rss.xml</loc>
   <lastmod>2022-01-05T16:58:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://dodcott.org/galleries/www1_memorial_ceremony/rss.sync-conflict-20220311-102346-BFVZF45.xml</loc>
-  <lastmod>2021-03-03T14:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/galleries/www1_memorial_ceremony/rss.xml</loc>
   <lastmod>2022-01-05T16:58:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://dodcott.org/rss.sync-conflict-20220311-102349-BFVZF45.xml</loc>
-  <lastmod>2021-11-04T10:33:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>http://dodcott.org/rss.xml</loc>
-  <lastmod>2022-03-13T12:19:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://dodcott.org/sitemap.sync-conflict-20220311-102348-BFVZF45.xml</loc>
-  <lastmod>2021-11-04T10:33:00Z</lastmod>
+  <lastmod>2022-03-13T12:27:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://dodcott.org/sitemap.xml</loc>
-  <lastmod>2022-03-13T12:19:00Z</lastmod>
+  <lastmod>2022-03-13T12:27:00Z</lastmod>
  </sitemap>
 </sitemapindex>
