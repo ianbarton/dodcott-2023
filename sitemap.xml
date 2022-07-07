@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2022-06-21T13:52:00Z</lastmod>
+  <lastmod>2022-07-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
@@ -103,27 +103,27 @@
  </url>
  <url>
   <loc>http://dodcott.org/index-1.html</loc>
-  <lastmod>2022-01-05T16:58:00Z</lastmod>
+  <lastmod>2022-07-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-2.html</loc>
-  <lastmod>2022-01-05T16:58:00Z</lastmod>
+  <lastmod>2022-07-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-3.html</loc>
-  <lastmod>2022-01-05T16:58:00Z</lastmod>
+  <lastmod>2022-07-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-4.html</loc>
-  <lastmod>2022-01-05T16:58:00Z</lastmod>
+  <lastmod>2022-07-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-5.html</loc>
-  <lastmod>2022-06-21T13:52:00Z</lastmod>
+  <lastmod>2022-07-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-6.html</loc>
-  <lastmod>2022-06-21T13:52:00Z</lastmod>
+  <lastmod>2022-07-06T17:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/about/</loc>
@@ -404,5 +404,9 @@
  <url>
   <loc>http://dodcott.org/posts/2022-06-20-meeting/</loc>
   <lastmod>2022-06-21T13:52:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2022-07-01-meeting/</loc>
+  <lastmod>2022-07-06T17:57:00Z</lastmod>
  </url>
 </urlset>
