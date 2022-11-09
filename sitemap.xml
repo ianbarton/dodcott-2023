@@ -47,7 +47,7 @@
  </url>
  <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2022-09-11T14:36:00Z</lastmod>
+  <lastmod>2022-11-09T18:55:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
@@ -123,7 +123,7 @@
  </url>
  <url>
   <loc>http://dodcott.org/index-6.html</loc>
-  <lastmod>2022-09-11T14:36:00Z</lastmod>
+  <lastmod>2022-11-09T18:55:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/about/</loc>
@@ -412,5 +412,9 @@
  <url>
   <loc>http://dodcott.org/posts/2022-09-10-meeting/</loc>
   <lastmod>2022-09-11T14:36:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2022-11-06-meeting/</loc>
+  <lastmod>2022-11-09T18:49:00Z</lastmod>
  </url>
 </urlset>
