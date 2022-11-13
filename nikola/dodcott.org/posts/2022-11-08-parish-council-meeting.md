@@ -13,4 +13,4 @@ There will be a meeting of the Parish Council on Monday 14th November 2022 at Li
 
 You can view the agenda [here](https://drive.google.com/file/d/1LomB4Epn9nKyKaZzl6SNsnKtUky_UuJ_/view?usp=share_link)
 
-You can view the minutes of the September meeting [here](https://drive.google.com/file/d/16r6qifgRoE0Hepvzz3cAnwDyVh5aiqA6/view?usp=share_link)
+You can view the minutes of the September meeting [here](https://drive.google.com/file/d/1NK6b9Zzg9yMa8IrWAiPAjqE4qusYPuLf/view?usp=share_link)
