@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://dodcott.org/</loc>
-  <lastmod>2022-06-21T13:52:00Z</lastmod>
+  <lastmod>2023-01-06T16:13:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/2014/</loc>
@@ -46,8 +46,12 @@
   <lastmod>2022-01-05T16:58:00Z</lastmod>
  </url>
  <url>
+  <loc>http://dodcott.org/2023/</loc>
+  <lastmod>2023-01-06T16:13:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://dodcott.org/archive.html</loc>
-  <lastmod>2022-11-13T19:38:00Z</lastmod>
+  <lastmod>2023-01-06T17:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/categories/</loc>
@@ -103,27 +107,27 @@
  </url>
  <url>
   <loc>http://dodcott.org/index-1.html</loc>
-  <lastmod>2022-11-13T19:38:00Z</lastmod>
+  <lastmod>2023-01-06T17:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-2.html</loc>
-  <lastmod>2022-11-13T19:38:00Z</lastmod>
+  <lastmod>2023-01-06T17:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-3.html</loc>
-  <lastmod>2022-11-13T19:38:00Z</lastmod>
+  <lastmod>2023-01-06T17:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-4.html</loc>
-  <lastmod>2022-11-13T19:38:00Z</lastmod>
+  <lastmod>2023-01-06T17:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-5.html</loc>
-  <lastmod>2022-11-13T19:38:00Z</lastmod>
+  <lastmod>2023-01-06T17:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/index-6.html</loc>
-  <lastmod>2022-11-13T19:38:00Z</lastmod>
+  <lastmod>2023-01-06T17:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://dodcott.org/pages/about/</loc>
@@ -416,5 +420,9 @@
  <url>
   <loc>http://dodcott.org/posts/2022-11-06-meeting/</loc>
   <lastmod>2022-11-09T18:49:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://dodcott.org/posts/2023-01-01-meeting/</loc>
+  <lastmod>2023-01-06T16:13:00Z</lastmod>
  </url>
 </urlset>
