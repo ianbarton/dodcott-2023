@@ -1,7 +1,7 @@
 <!--
 .. title: Parish Council Meeting Monday 15th May 2023.
-.. slug: 2023-05-01-meeting
-.. date: 2023-05-01 02:49:30 UTC
+.. slug: 2023-07-01-meeting
+.. date: 2023-07-01 02:49:30 UTC
 .. tags: parishcouncil
 .. category:
 .. link:
