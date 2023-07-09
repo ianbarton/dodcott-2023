@@ -1,7 +1,7 @@
 <!--
 .. title: Parish Council Meeting Monday 13th March 2023.
-.. slug: 2023-03-01-meeting
-.. date: 2023-03-01 02:49:30 UTC
+.. slug: 2023-03-13-meeting
+.. date: 2023-03-13 02:49:30 UTC
 .. tags: parishcouncil
 .. category:
 .. link:
