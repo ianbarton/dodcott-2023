@@ -6,11 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://dodcott.org/rss.xml</loc>
-  <lastmod>2023-09-05T14:20:00Z</lastmod>
+  <loc>https://dodcott.org/rss.xml</loc>
+  <lastmod>2023-09-06T13:08:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://dodcott.org/sitemap.xml</loc>
-  <lastmod>2023-09-05T14:20:00Z</lastmod>
+  <loc>https://dodcott.org/sitemap.xml</loc>
+  <lastmod>2023-09-06T13:08:00Z</lastmod>
  </sitemap>
 </sitemapindex>
