@@ -6,6 +6,7 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+<<<<<<< HEAD
   <loc>http://dodcott.org/</loc>
   <lastmod>2023-09-06T17:42:00Z</lastmod>
  </url>
@@ -28,5 +29,17 @@
  <url>
   <loc>http://dodcott.org/posts/safer-roads/</loc>
   <lastmod>2023-09-06T17:42:00Z</lastmod>
+=======
+  <loc>https://dodcott.org/</loc>
+  <lastmod>2023-09-05T14:33:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dodcott.org/archive.html</loc>
+  <lastmod>2023-09-06T13:08:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://dodcott.org/categories/</loc>
+  <lastmod>2023-09-05T14:33:00Z</lastmod>
+>>>>>>> d4acb87d4aabeaac9473ef860978c4d5d79cdfdf
  </url>
 </urlset>
