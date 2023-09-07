@@ -1,4 +1,7 @@
 * Dodcott-cum-Wilkesley Web Site.
+Edited!
+
+
 This is the source for the Parish of Dodcott-cum-Wilkesley's web
 site. The site is created using [[https://getnikola.com/][nikola]]. This repository should
 contain all the components necessary to re-create the site. It also
