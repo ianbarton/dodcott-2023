@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Sitemap: http://dodcott.org/sitemapindex.xml
-=======
 Sitemap: https://dodcott.org/sitemapindex.xml
->>>>>>> d4acb87d4aabeaac9473ef860978c4d5d79cdfdf
 
 User-Agent: *
 Host: dodcott.org
